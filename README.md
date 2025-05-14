@@ -1,4 +1,6 @@
-# 👨‍💻 Hi there, I'm [Your Name]!
+# 👨‍💻 Hi there, I'm [Rahmat]!
+
+![Rahmat](img/github-header-image.png)
 
 🌱 I’m a **Junior Programmer** who’s passionate about learning and building projects using modern technologies.
 
