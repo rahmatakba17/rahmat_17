@@ -43,6 +43,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### snake
+### snake auto run
 
-<img src="https://raw.githubusercontent.com/rahmat17akba/rahmat17akba/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rahmatakba17/rahmat17akba/output/snake.svg" alt="Snake animation" />
