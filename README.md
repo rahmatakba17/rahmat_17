@@ -59,6 +59,7 @@
 ## 🤝 Let's Connect!
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 - 💼 LinkedIn: [linkedin.com/in/rahmat](https://www.linkedin.com/in/rahmat-hidayat-45702a1bb/)
 - 🌐 Portfolio: [yourdomain.com](https://yourdomain.com)
 - 📫 Email: rahmat_17@mhs.akba.ac.id
