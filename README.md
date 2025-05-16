@@ -42,3 +42,7 @@
 [(https://saweria.co/OjolXProgrammer)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### snake
+
+<img src="https://raw.githubusercontent.com/rahmat17akba/rahmat17akba/output/snake.svg" alt="Snake animation" />
