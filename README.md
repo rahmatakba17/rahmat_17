@@ -38,6 +38,6 @@
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/widgets/alert?streamKey=84a55a0c5103cfb486cf42602a52dff4)(https://saweria.co/OjolXProgrammer) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://saweria.co/OjolXProgrammer)
+[![BuyMeACoffee]](https://saweria.co/widgets/alert?streamKey=84a55a0c5103cfb486cf42602a52dff4)(https://saweria.co/OjolXProgrammer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
