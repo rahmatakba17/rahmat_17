@@ -70,7 +70,7 @@
 
 ## 💰 You can help me by Donating
 
-(https://saweria.co/widgets/alert?streamKey=84a55a0c5103cfb486cf42602a52dff4)
+[(https://saweria.co/widgets/alert?streamKey=84a55a0c5103cfb486cf42602a52dff4)](https://saweria.co/OjolXProgrammer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->)
 
