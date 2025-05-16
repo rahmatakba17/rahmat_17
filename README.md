@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm [Rahmat]!
+# 👨‍💻 Hello My Lord, I'm Rahmat <br>
 
 ![Rahmat](img/github-header-image.png)
 
@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-# 👨‍💻 Hi there, I'm [Rahmat]!<br>
+Funny, Humble, Music, Sports
 
 ## 🌐 Socials:
 
